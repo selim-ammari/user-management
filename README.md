@@ -8,5 +8,6 @@ User management application
 The application use frontend build and serve with backend HTTPS
 
 To use just connect with your lastname and firstname and enjoy
+You can save your credential and appear in users's list in my account page save my credentials
 
 Admin credentials are lastname: Admin and firstname: Super to get more fonctionnalities
