@@ -2,13 +2,13 @@
 node_modules/
 
 # Frontend
-technical-test/frontend/node_modules/
-technical-test/frontend/build/
+api/frontend/node_modules/
+api/frontend/build/
 
 # Backend
-technical-test/backend/node_modules/
-technical-test/backend/data/users.json
-technical-test/backend/certs/
+api/backend/node_modules/
+api/backend/data/users.json
+api/backend/certs/
 
 # Env
 .env

@@ -2,7 +2,7 @@
 User management application
 
 * first install dependencies in backend and frontend folder npm install
-* into frontend folder run npm run build 
+* into frontend folder run npm install --legacy-peer-deps
 * into backend folder run chmod +x run-backend.sh and ./run-backend.sh
 * app running
 The application use frontend build and serve with backend HTTPS
