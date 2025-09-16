@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# Frontend
+technical-test/frontend/node_modules/
+technical-test/frontend/build/
+
+# Backend
+technical-test/backend/node_modules/
+technical-test/backend/data/users.json
+technical-test/backend/certs/
+
+# Env
+.env
